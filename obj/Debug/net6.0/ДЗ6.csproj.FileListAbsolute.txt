@@ -1,0 +1,15 @@
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ6\bin\Debug\net6.0\ДЗ6.exe
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ6\bin\Debug\net6.0\ДЗ6.deps.json
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ6\bin\Debug\net6.0\ДЗ6.runtimeconfig.json
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ6\bin\Debug\net6.0\ДЗ6.dll
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ6\bin\Debug\net6.0\ДЗ6.pdb
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ6\obj\Debug\net6.0\ДЗ6.csproj.AssemblyReference.cache
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ6\obj\Debug\net6.0\ДЗ6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ6\obj\Debug\net6.0\ДЗ6.AssemblyInfoInputs.cache
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ6\obj\Debug\net6.0\ДЗ6.AssemblyInfo.cs
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ6\obj\Debug\net6.0\ДЗ6.csproj.CoreCompileInputs.cache
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ6\obj\Debug\net6.0\ДЗ6.dll
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ6\obj\Debug\net6.0\refint\ДЗ6.dll
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ6\obj\Debug\net6.0\ДЗ6.pdb
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ6\obj\Debug\net6.0\ДЗ6.genruntimeconfig.cache
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ6\obj\Debug\net6.0\ref\ДЗ6.dll
